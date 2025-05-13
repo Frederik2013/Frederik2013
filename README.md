@@ -1,2 +1,2 @@
 ## Hi there 👋
-## I am Frederik
+I am Frederik
